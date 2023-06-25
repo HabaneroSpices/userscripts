@@ -17,4 +17,4 @@ Install one of the following userscript engines:
 
 Install a script directly from GitHub by clicking on the name below.
 
-* [Open In Steam](Open%20In%20Steam/Open%20In%20Steam.user.js)
+* [Open In Steam](https://github.com/HabaneroSpices/userscripts/raw/main/Open%20In%20Steam/Open%20In%20Steam.user.js)
