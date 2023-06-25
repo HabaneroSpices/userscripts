@@ -5,7 +5,7 @@
 // @description  Replace "Store Page" button with "Open In Steam"!
 // @author       You
 // @match        https://steamcommunity.com/*
-// @icon         https://raw.githubusercontent.com/gilbarbara/logos/main/logos/steam.svg
+// @icon         https://github.com/HabaneroSpices/userscripts/raw/main/img/steam.svg
 // @grant        none
 // ==/UserScript==
 
