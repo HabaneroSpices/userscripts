@@ -12,8 +12,8 @@
 (function() {
     'use strict';
     var curURL = window.location.href;
-    var [storePage] = document.querySelectorAll('[data-appid="431960"]');
+    var [storePage] = document.querySelectorAll(".apphub_OtherSiteInfo");
 
     storePage.querySelector('span:not([class])').innerHTML = "Open in Steam";
-    storePage.href = "steam://openurl/" + curURL;
+    storePage.querySelector('[data-appid]').href = "steam://openurl/" + curURL;
 })();
