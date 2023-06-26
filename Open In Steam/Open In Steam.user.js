@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Replace "Store Page" button with "Open In Steam"!
-// @author       You
+// @author       Habanero
 // @match        https://steamcommunity.com/*
 // @icon         https://github.com/HabaneroSpices/userscripts/raw/main/img/steam.svg
 // @grant        none
