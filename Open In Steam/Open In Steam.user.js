@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Open In Steam
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Replace "Store Page" button with "Open In Steam"!
 // @author       You
 // @match        https://steamcommunity.com/*
