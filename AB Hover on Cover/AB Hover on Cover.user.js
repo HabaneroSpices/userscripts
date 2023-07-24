@@ -16,6 +16,7 @@
   .enlarge-onhover:hover {
        width: auto;
        height: 80%;
+       position: relative;
   }
   `
   
