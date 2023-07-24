@@ -5,7 +5,7 @@
 // @description  AB Hover on Cover!
 // @author       Habanero
 // @match        https://animebytes.tv/*
-// @icon         https://github.com/HabaneroSpices/userscripts/raw/main/img/steam.svg
+// @icon         https://github.com/HabaneroSpices/userscripts/raw/main/img/ab.jpg
 // @grant        none
 // ==/UserScript==
 
