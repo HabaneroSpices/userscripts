@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         AB Hover on Cover
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  AB Hover on Cover!
 // @author       Habanero
 // @match        https://animebytes.tv/*
 // @icon         https://github.com/HabaneroSpices/userscripts/raw/main/img/ab.jpg
+// @downloadURL  https://github.com/HabaneroSpices/userscripts/raw/main/AB%20Hover%20on%20Cover/AB%20Hover%20on%20Cover.user.js
+// @updateURL    https://github.com/HabaneroSpices/userscripts/raw/main/AB%20Hover%20on%20Cover/AB%20Hover%20on%20Cover.user.js
 // @grant        none
 // ==/UserScript==
 
