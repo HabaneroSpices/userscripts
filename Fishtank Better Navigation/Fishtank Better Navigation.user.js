@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fishtank Better Navigation
 // @namespace    http://tampermonkey.net/
-// @version      2023-12-19.2
+// @version      0.2
 // @description  Fishtank Better Navigation
 // @author       Credit some guy on le'chan
 // @match        https://www.fishtank.live/
