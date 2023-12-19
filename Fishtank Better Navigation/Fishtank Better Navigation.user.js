@@ -2,8 +2,8 @@
 // @name         Fishtank Better Navigation
 // @namespace    http://tampermonkey.net/
 // @version      2023-12-19
-// @description  Credit some guy on le'chan
-// @author       You
+// @description  Fishtank Better Navigation
+// @author       Credit some guy on le'chan
 // @match        https://www.fishtank.live/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=fishtank.live
 // @grant        none
