@@ -6,8 +6,9 @@
 // @author       Credit some guy on le'chan
 // @match        https://www.fishtank.live/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=fishtank.live
+// @updateURL    https://github.com/HabaneroSpices/userscripts/raw/main/Fishtank%20Better%20Navigation/Fishtank%20Better%20Navigation.user.js
 // @grant        none
-// @run-at      document-idle
+// @run-at       document-idle
 // ==/UserScript==
 
 
